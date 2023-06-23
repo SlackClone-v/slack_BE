@@ -7,7 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class InstagramCloneBeApplicationTests {
 
 	@Test
-	void contextLoads() {
+	String contextLoads() {
+		return "dkdk";
 	}
 
 }
