@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
-//TODO 후에지우고 build.gradle 에 mysql관련설정추가
+//TODO 후에지우고 build.gradle 에 h2->mysql
 public class InstagramCloneBeApplication {
 
     public static void main(String[] args)  {
