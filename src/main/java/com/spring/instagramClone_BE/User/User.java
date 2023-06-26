@@ -20,4 +20,3 @@ public class User {
     private String Password;
 
 }
-//api만드러서 url 넘기기
