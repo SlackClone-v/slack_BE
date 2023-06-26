@@ -5,6 +5,7 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 src/nohup.out
+src/my-key.pem
 
 ### STS ###
 .apt_generated
