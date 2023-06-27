@@ -1,4 +1,4 @@
-package com.spring.instagramClone_BE.User;
+package com.spring.instagramClone_BE.user.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
