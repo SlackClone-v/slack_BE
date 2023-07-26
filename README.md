@@ -1,7 +1,7 @@
-![image](https://github.com/instagramClone-v/instagram_BE/assets/107148237/63a86cbd-19a2-4fb2-8f59-78e2fe9aeae4)
+![image](https://github.com/SlackClone-v/slack_BE/assets/107148237/6ca4290b-f690-41d2-938a-b4d4c3f9733c)
 
-# instagramClone_BE
-인스타그램 클론코딩 **BackEnd** 프로젝트입니다.
+# slack_BE
+슬랙 클론코딩 **BackEnd** 프로젝트입니다.
 
 ## 스택
 
@@ -16,11 +16,7 @@
 프론트엔드: S3 + cloud font + Route 53
 
 https 적용 + 도메인
-
 ## 프로젝트 범위
-- 게시물 CRUD
-- 게시물 좋아요
-- 게시물 댓글
 
 ## 프로젝트 구조
 ![Untitled](https://github.com/instagramClone-v/instagram_BE/assets/107148237/7cf1b20e-2592-4c6a-8d43-8be2aad61bda)
