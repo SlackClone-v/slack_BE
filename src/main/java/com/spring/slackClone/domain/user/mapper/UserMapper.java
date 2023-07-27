@@ -1,7 +1,7 @@
-package com.spring.slackClone_BE.user.mapper;
+package com.spring.slackClone.domain.user.mapper;
 
-import com.spring.slackClone_BE.user.domain.User;
-import com.spring.slackClone_BE.user.entity.UserEntity;
+import com.spring.slackClone.domain.user.domain.User;
+import com.spring.slackClone.domain.user.entity.UserEntity;
 
 public class UserMapper {
 
