@@ -1,4 +1,4 @@
-package com.spring.slackClone_BE.user.entity;
+package com.spring.slackClone.domain.user.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
