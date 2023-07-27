@@ -6,9 +6,7 @@ Slack을 클론코딩하는 **BackEnd** 프로젝트입니다.
 ## 1. 스택
 
 프론트엔드
-- React
-- React-Query
-- Recoil
+- Next.js
 
 백엔드
 - Spring Boot 3.0.2
